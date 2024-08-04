@@ -1,5 +1,5 @@
-# 🔋Business Insights on India's Electric Vehicle Market🔋
-(Resume Challange #12)
+  # 🔋Business Insights on India's Electric Vehicle Market🔋    (Resume Challange #12)
+
 
 
 ### 📊 Live Dashboard
@@ -15,6 +15,7 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 The objective is to create a comprehensive dashboard analyzing EV production and sales in India for the 2-wheeler and 4-wheeler segments from 2022 to 2024.
 
 🔎 Power BI Dashboard Overview:
+
 ✅ Home View: A landing page with icons to navigate to different views.
 ✅ EV Makers Sales View : Provides makers' sales insights with filters.
 ✅ Sales _States View : Provides state-wise sales insights for EVs.

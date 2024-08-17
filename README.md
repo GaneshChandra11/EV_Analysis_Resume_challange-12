@@ -24,7 +24,7 @@ The objective is to create a comprehensive dashboard analyzing EV production and
 
 📢 I would like to share the brief gist of "Technical skills" which I acquired in the journey:
 
-✒ Data Modelling:-<br/>/t
+✒ Data Modelling:-<br/>&nbps
   ↪ Establishing the relationships between tables.<br/>
 ✒ Power Query:-<br/>
   ↪ ETL(Extract, Transform , Load) software in Power Bi<br/>

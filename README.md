@@ -26,12 +26,12 @@ The objective is to create a comprehensive dashboard analyzing EV production and
 
 ✒ Data Modelling:-<br/>
   ↪ Establishing the relationships between tables.<br/>
-✒ Power Query:-
-  ↪ ETL(Extract, Transform , Load) software in Power Bi
-✒ DAX language(Data Analysis Expression):-
-  ↪ New Measure
-  ↪ Calculated Column
-✒ Rules for designing effective Dashboard
-✒ Creating Slicer.
-✒ Editing relationships between different charts in the dashboard.
+✒ Power Query:-<br/>
+  ↪ ETL(Extract, Transform , Load) software in Power Bi<br/>
+✒ DAX language(Data Analysis Expression):-<br/>
+  ↪ New Measure<br/>
+  ↪ Calculated Column<br/>
+✒ Rules for designing effective Dashboard<br/>
+✒ Creating Slicer.<br/>
+✒ Editing relationships between different charts in the dashboard.<br/>
 

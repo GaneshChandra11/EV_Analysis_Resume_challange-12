@@ -17,15 +17,15 @@ The objective is to create a comprehensive dashboard analyzing EV production and
 
 🔎 Power BI Dashboard Overview:
 
-✅ Home View: A landing page with icons to navigate to different views.
-✅ EV Makers Sales View : Provides makers' sales insights with filters.
-✅ Sales _States View : Provides state-wise sales insights for EVs.
-✅ Revenue Analysis of States View : Revenue analysis and comparison state-wise.
+✅ Home View: A landing page with icons to navigate to different views.<br/>
+✅ EV Makers Sales View : Provides makers' sales insights with filters.<br/>
+✅ Sales _States View : Provides state-wise sales insights for EVs.<br/>
+✅ Revenue Analysis of States View : Revenue analysis and comparison state-wise.<br/>
 
 📢 I would like to share the brief gist of "Technical skills" which I acquired in the journey:
 
 ✒ Data Modelling:-<br />
-  ↪ Establishing the relationships between tables.<br/>
+  <br />↪ Establishing the relationships between tables.<br/>
 ✒ Power Query:-<br/>
   ↪ ETL(Extract, Transform , Load) software in Power Bi<br/>
 ✒ DAX language(Data Analysis Expression):-<br/>

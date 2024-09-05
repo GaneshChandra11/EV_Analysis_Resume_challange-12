@@ -3,12 +3,12 @@
 
 
 ### 📊 Linkedin Post Link: 
-[Check Out the Post]()
+[Check Out the Post](https://www.linkedin.com/posts/ganeshchandrapanda_dataanalytics-businessanalytics-codebasics-activity-7237152584958930944-qtCm?utm_source=share&utm_medium=member_desktop)
 ### 📊 Live Dashboard
 Explore the live dashboard : [Open]([https://app.powerbi.com/groups/me/reports/5def771b-6f22-4d3d-9dea-c2ca29663e97/46f9b9de7040d19806d7?experience=power-bi&clientSideAuth=0](https://app.powerbi.com/view?r=eyJrIjoiMjc1OWRhYTQtNWM0My00YTllLTg5MWMtZGU5OWM3ZDZhMzc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### 📊 Video Presentation Link:
-[Watch the Video]()
+[Watch the Video](https://youtu.be/RE9qfXVx-Uw)
 
 🎯 Project Introduction:<br />
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV). In the last 5 years, their market share rose to 25% in electric and hybrid vehicles segment in North America. As a part of their expansion plans, they wanted to launch their bestselling models in India where their market share is less than 2%. The chief of AtliQ Motors India wanted to do a detailed market study of existing EV/Hybrid market in India before proceeding further.
@@ -35,4 +35,11 @@ The objective is to create a comprehensive dashboard analyzing EV production and
 ✒ Rules for designing effective Dashboard<br/>
 ✒ Creating Slicer.<br/>
 ✒ Editing relationships between different charts in the dashboard.<br/>
+
+💡Key Insights:<br/>
+🔹 Market Leaders: Tata Motors leads the Indian EV market for 4-wheelers, while Ola Electric dominates in the 2-wheeler segment.<br/>
+🔹 2-Wheeler Dominance: 2-wheelers represent a significant 91% of total EV sales in India.<br/>
+🔹 Regional Success: Goa boasts the highest EV penetration rate at 18%, with Maharashtra and Karnataka following closely.<br/>
+🔹 Infrastructure Growth: Maharashtra leads in public charging station infrastructure, supporting the state's strong EV adoption.<br/>
+🔹 Top Performing States: Maharashtra and Karnataka stand out with nearly 3 lakh EVs sold, reflecting their strong market performance and penetration rates.<br/>
 

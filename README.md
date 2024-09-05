@@ -10,6 +10,9 @@ Explore the live dashboard : [Open]([https://app.powerbi.com/groups/me/reports/5
 ### 📊 Video Presentation Link:
 [Watch the Video](https://youtu.be/RE9qfXVx-Uw)
 
+
+
+
 🎯 Project Introduction:<br />
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EV). In the last 5 years, their market share rose to 25% in electric and hybrid vehicles segment in North America. As a part of their expansion plans, they wanted to launch their bestselling models in India where their market share is less than 2%. The chief of AtliQ Motors India wanted to do a detailed market study of existing EV/Hybrid market in India before proceeding further.
 
@@ -42,4 +45,14 @@ The objective is to create a comprehensive dashboard analyzing EV production and
 🔹 Regional Success: Goa boasts the highest EV penetration rate at 18%, with Maharashtra and Karnataka following closely.<br/>
 🔹 Infrastructure Growth: Maharashtra leads in public charging station infrastructure, supporting the state's strong EV adoption.<br/>
 🔹 Top Performing States: Maharashtra and Karnataka stand out with nearly 3 lakh EVs sold, reflecting their strong market performance and penetration rates.<br/>
+
+𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬:<br/>
+ ↪Leverage Government Subsidies<br/>
+ ↪Target High-Potential States<br/>
+ ↪Tailor Marketing for Indian Consumers<br/>
+ ↪Invest in Infrastructure for Future Growth<br/>
+ ↪Invest in R&D for Technology Advancements<br/>
+
+ I'd love to hear your feedback, questions, or insights! Feel free to explore and connect with me.
+MailId: ganeshchandra.cs.it@gmail.com
 

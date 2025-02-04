@@ -5,8 +5,7 @@
 ### 📊 Linkedin Post Link: 
 [Check Out the Post](https://www.linkedin.com/posts/ganeshchandrapanda_dataanalytics-businessanalytics-codebasics-activity-7237152584958930944-qtCm?utm_source=share&utm_medium=member_desktop)
 ### 📊 Live Dashboard
-Explore the live dashboard : [Open]([https://app.powerbi.com/groups/me/reports/5def771b-6f22-4d3d-9dea-c2ca29663e97/46f9b9de7040d19806d7?experience=power-bi&clientSideAuth=0]
-### 📊 Video Presentation Link:
+Explore the live dashboard: [Open](https://app.powerbi.com/groups/me/reports/5def771b-6f22-4d3d-9dea-c2ca29663e97/46f9b9de7040d19806d7?experience=power-bi&clientSideAuth=0)### 📊 Video Presentation Link:
 [Watch the Video](https://youtu.be/RE9qfXVx-Uw)
 
 
